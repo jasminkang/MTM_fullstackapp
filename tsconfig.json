@@ -15,6 +15,19 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "pages/_document.jsx",
+    "pages/_app.jsx",
+    "components/AdminDashboard.jsx",
+    "pages/administration.tsx",
+    "components/Footer.jsx",
+    "components/Header.jsx",
+    "components/Layout.jsx",
+    "components/Login.jsx",
+    "pages/api/hello.js"
+  ],
   "exclude": ["node_modules"]
 }
