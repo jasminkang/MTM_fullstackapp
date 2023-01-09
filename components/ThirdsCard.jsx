@@ -7,13 +7,6 @@ const ThirdsCard = ({
   textTwo,
   headThree,
   textThree,
-}: {
-  headOne: string;
-  textOne: string;
-  headTwo: string;
-  textTwo: string;
-  headThree: string;
-  textThree: string;
 }) => {
   return (
     <div className="flex w-full h-auto p-5 z-[2] mt-[2rem] mb-0">

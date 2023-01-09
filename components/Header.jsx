@@ -16,6 +16,13 @@ const Header = () => {
           className="fa-solid fa-user text-xl duration-300 hover:opacity-40 cursor-pointer sm:text-3xl"
         ></i>
       </div>
+      <div className=" z-0 text-align-center p-2 w-full block bg-ocean h-8">
+        <p className="overflow:hidden text-xs flex-auto text-white">
+          Port Macquarie NSW 2444 &emsp; 0403 587 487 &emsp;
+          muscletherapymassage@gmail.com
+        </p>
+      </div>
+      ); 
     </>
   );
 };

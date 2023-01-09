@@ -27,7 +27,9 @@
     "components/Header.jsx",
     "components/Layout.jsx",
     "components/Login.jsx",
-    "pages/api/hello.js"
-  ],
+    "pages/api/hello.js",
+    "components/Cards/AdminPanel.jsx",
+    "pages/index.jsx"
+, "components/PageTitle.jsx", "components/ThirdsCard.jsx"  ],
   "exclude": ["node_modules"]
 }
